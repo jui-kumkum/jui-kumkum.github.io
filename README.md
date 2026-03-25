@@ -19,13 +19,13 @@ I specialize in building **scalable backend systems, REST APIs, and full-stack w
 ## 📸 Portfolio Preview
 
 ### 🏠 Home
-![Home](./screenshots/home.png)
+![Home](./src/assets/screenshots/home.png)
 
 ### 🛠 Skills
-![Skills](./screenshots/skills.png)
+![Skills](./src/assets/screenshots/skills.png)
 
 ### 💼 Projects
-![Projects](./screenshots/projects.png)
+![Projects](./src/assets/screenshots/projects.png)
 
 ---
 
